@@ -23,7 +23,7 @@ OS: Windows
 
 ## Setup
 1.	 Clone the repository to your local machine:
-                -  git clone <repository-url>
+                -  git clone https://github.com/urja2209/Demoblaze_Technical_Test.git
       2.  Open the Project in IntelliJ IDEA
       3.  Install Project dependencies using Maven:
             - mvn clean install 
@@ -49,6 +49,6 @@ src/test/java/resources/featurefile: Contains Cucumber feature files.
 src/test/java/resources/propertiesfile/config.properties: Configuration file contains the all-configuration data used for this project such as BaseUrl and Browser.
 target: Auto-generated directory for build outputs and test reports.
 ## Contributing
-If you would like to contribute to the development of this demo website or have suggestions for improvements, please check out the [GitHub repository](https://github.com/demoblaze/demoblaze) for this project and follow the contribution guidelines.
+If you would like to contribute to the development of this demo website or have suggestions for improvements, please check out the https://github.com/urja2209/Demoblaze_Technical_Test.gitfor this project and follow the contribution guidelines.
 ## License
 This project does not currently have an associated license
