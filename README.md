@@ -3,6 +3,7 @@
 Welcome to the DemoBlaze website, an online demo e-commerce platform. This README provides instructions on how to use the website, including logging in, adding items to the cart, and completing a purchase.
 
 ## Table of Contents
+
 -Prerequisites
 - Setup
 - Running Tests
