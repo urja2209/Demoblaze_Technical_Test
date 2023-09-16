@@ -4,8 +4,6 @@ Welcome to the DemoBlaze website, an online demo e-commerce platform. This READM
 
 ## Table of Contents
 
-
--Prerequisites
 - Setup
 - Running Tests
 - Report Generation
